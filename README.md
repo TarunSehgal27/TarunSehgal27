@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
+<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋
 [![Linkedin Badge](https://img.shields.io/badge/-tarunsehgal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-sehgal-079129208/)](https://www.linkedin.com/in/tarun-sehgal-079129208/)
 [![Gmail Badge](https://img.shields.io/badge/-tarunsehgal27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarunsehgal27@gmail.com)](mailto:tarunsehgal27@gmail.com) 

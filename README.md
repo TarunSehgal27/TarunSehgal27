@@ -55,15 +55,15 @@
 <br/>
 
 ### :zap: Github Stats
-<p align="center">
+<p>
     <a href="https://gitstats.me/tarunsehgal27" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=tarunsehgal27&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
  
-<p align ="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunsehgal27&show_icons=true&locale=en&layout=compact" alt="tarunsehgal27" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunsehgal27&show_icons=true&locale=en&layout=compact" alt="tarunsehgal27" /></p>
 
-<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsehgal27&" alt="tarunsehgal27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsehgal27&" alt="tarunsehgal27" /></p>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 

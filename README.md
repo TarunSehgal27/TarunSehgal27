@@ -45,3 +45,9 @@
 
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/tarun-sehgal-079129208
+    
+<p align="center">
+<a target="_blank" rel="noopener noreferrer" href="#">
+<img src="https://github.com/tarunsehgal27/meta/raw/main/metrics.svg" alt="unable to load" />
+</a>
+</p>

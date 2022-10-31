@@ -31,16 +31,22 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Machine Learning ✍️
 
-### Links:
+### Connect with me:
 <a href="[https://github.com/tarunsehgal27](https://github.com/tarunsehgal27)">
   <img align="left" alt="Apoorve's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="[https://www.instagram.com/tarunsehgal27](https://www.instagram.com/tarunsehgal27)">
-  <img align="left" alt="Apoorve's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Tarun's's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="[https://www.facebook.com/tarun.sehgal.125](https://www.facebook.com/tarun.sehgal.125)">
-  <img align="left" alt="Apoorve's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Tarun's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+<p align="left">
+<a href="https://www.codechef.com/users/tarunsehgal27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarunsehgal27" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/tarunsehgal27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarunsehgal27" height="30" width="40" /></a>
+
+
 
 <br/>
 <br/>
@@ -54,8 +60,10 @@
         <img src="https://github-readme-stats.vercel.app/api?username=tarunsehgal27&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunsehgal27&show_icons=true&locale=en&layout=compact" alt="tarunsehgal27" /></p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsehgal27&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunsehgal27&" alt="tarunsehgal27" /></p>
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 

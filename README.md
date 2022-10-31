@@ -4,8 +4,8 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Varad Bhogayata 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋
-[![Linkedin Badge](https://img.shields.io/badge/-tarunsehgal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-sehgal-079129208/)](https://www.linkedin.com/in/varadbhogayata/)
-[![Gmail Badge](https://img.shields.io/badge/-tarunsehgal27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarunsehgal27@gmail.com)](mailto:vbhogayata@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-tarunsehgal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-sehgal-079129208/)](https://www.linkedin.com/in/tarun-sehgal-079129208/)
+[![Gmail Badge](https://img.shields.io/badge/-tarunsehgal27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarunsehgal27@gmail.com)](mailto:tarunsehgal27@gmail.com) 
 
 
 - 🎯 Portfolio website: [Portfolio](https://tarunsehgal27.github.io/)
@@ -14,7 +14,6 @@
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -30,7 +29,7 @@
 
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
+- Machine Learning ✍️
 
 
 ### :zap: Github Stats
@@ -40,7 +39,7 @@
     </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarunsehgal27&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 

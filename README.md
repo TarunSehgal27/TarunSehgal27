@@ -31,6 +31,22 @@
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Machine Learning ✍️
 
+### Links:
+<a href="[https://github.com/tarunsehgal27](https://github.com/tarunsehgal27)">
+  <img align="left" alt="Apoorve's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="[https://www.instagram.com/tarunsehgal27](https://www.instagram.com/tarunsehgal27)">
+  <img align="left" alt="Apoorve's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="[https://www.facebook.com/tarun.sehgal.125](https://www.facebook.com/tarun.sehgal.125)">
+  <img align="left" alt="Apoorve's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
+<br/>
+<br/>
+ɪɴᴅɪᴀɴ ♕ | sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
+<br/>
+<br/>
 
 ### :zap: Github Stats
 <p>
@@ -46,4 +62,8 @@
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/tarun-sehgal-079129208
     
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tarunsehgal27/count.svg" />
+</p>
+</div>

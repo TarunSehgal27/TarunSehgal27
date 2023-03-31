@@ -4,7 +4,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋
-[![Linkedin Badge](https://img.shields.io/badge/-tarunsehgal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarun-sehgal27/)](https://www.linkedin.com/in/tarun-sehgal27/)
+[![Linkedin Badge](https://img.shields.io/badge/-tarunsehgal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarunsehgal27/)](https://www.linkedin.com/in/tarunsehgal27/)
 [![Gmail Badge](https://img.shields.io/badge/-tarunsehgal27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarunsehgal27@gmail.com)](mailto:tarunsehgal27@gmail.com) 
 
 

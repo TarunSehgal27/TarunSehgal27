@@ -1,16 +1,10 @@
-
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
-<!-- <h3> नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋
-[![Linkedin Badge](https://img.shields.io/badge/-tarunsehgal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tarunsehgal27/)](https://www.linkedin.com/in/tarunsehgal27/)
-[![Gmail Badge](https://img.shields.io/badge/-tarunsehgal27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarunsehgal27@gmail.com)](mailto:tarunsehgal27@gmail.com) 
 
-
-- 🎯 Portfolio website: [Portfolio](https://tarunsehgal27.github.io/)
+**M.Tech in DSE🎓| B.Tech in IT🎓| Open Source Contributor| Technical Writer| Deep Learning| Computer Vision| Data Science| Big Data| Machine Learning| NLP | LLM| LLMOps| SQL| Statistics| AWS| MLOps| Artificial Intelligence (AI)**
+- 🔭 I’m currently working on **Generative AI, NLP, Deep Learning, Machine Learning, Computer Vision, LLM, Data Analytics & Data Science Projects**                       
+- 🌱 I’m currently learning **MLOps, LLMOps**
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📫 How to reach me: <a href='https://www.linkedin.com/in/tarunsehgal27/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/TARUN-100000?style=plastic&logo=Linkedin&logoColor=4DA9E7&labelColor=black&color=black'/></a>
 
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -30,6 +24,8 @@
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Machine Learning ✍️
+- Deep Learning
+- Generative AI
 
 ### Connect with me:
 <a href="https://www.github.com/tarunsehgal27" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="tarunsehgal27" height="30" width="40" /></a>
@@ -38,13 +34,6 @@
 <a href="https://www.codechef.com/users/tarunsehgal27" target="blank" rel="noopener noreferrer"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tarunsehgal27" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tarunsehgal27" target="blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarunsehgal27" height="30" width="40" /></a>
 
-
-
-<br/>
-<br/>
-ɪɴᴅɪᴀɴ ♕ | sᴏғᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ 
-<br/>
-<br/>
 
 ### :zap: Github Stats
 <p>
@@ -60,10 +49,12 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 <!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/tarun-sehgal-079129208
+[linkedin]: https://www.linkedin.com/in/tarunsehgal27
     
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tarunsehgal27/count.svg" />
 </p>
 </div>
+
+***Thanks for visiting my profile.***

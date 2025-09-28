@@ -1,6 +1,6 @@
 ### नमस्ते (Namaste)🙏🏻, I am Tarun Sehgal 👋
 
-**M.Tech in DSE🎓| B.Tech in IT🎓| Open Source Contributor| Technical Writer| Deep Learning| Computer Vision| Data Science| Big Data| Machine Learning| NLP | LLM| LLMOps| SQL| Statistics| AWS| MLOps| Artificial Intelligence (AI)**
+**M.Tech in DSE🎓| B.Tech in IT🎓| Technical Writer| Deep Learning| Computer Vision| Data Science| Big Data| Machine Learning| NLP | LLM| SQL| Statistics| AWS| MLOps| Artificial Intelligence (AI)**
 - 🔭 I’m currently working on **Generative AI, NLP, Deep Learning, Machine Learning, Computer Vision, LLM, Data Analytics & Data Science Projects**                       
 - 🌱 I’m currently learning **MLOps, LLMOps**
 - 💬 Ask me about anything, I am happy to help :smile:
@@ -51,10 +51,6 @@
 <!--[website]: -->
 [linkedin]: https://www.linkedin.com/in/tarunsehgal27
     
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tarunsehgal27/count.svg" />
-</p>
 </div>
 
 ***Thanks for visiting my profile.***
